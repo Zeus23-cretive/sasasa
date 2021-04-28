@@ -1,0 +1,19 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["741711332755374260"],
+        "ACTIVITY_TEXT": "⊽ Hype Welcome",
+        "GUILD_ID": "836616972023365643",
+        "VOICE_CHANNEL": "836618698374643763",
+        "MIN_STAFF_ROLE": "836617696157761576"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/Staff.mp3"
+    },
+    "TOKEN": "ODM2OTA4MjE0NjQ4OTYzMTIz.YIk1gw.UfUMK5HKaTA0pGQu-PZVaZeXpnw"
+
+
+
+}
+
+
